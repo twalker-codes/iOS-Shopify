@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>navigationBackgroundColor</key>
+	<string>#ffffff</string>
+	<key>navigationForegroundColor</key>
+	<string>#000000</string>
+	<key>sideMenuBackgroundColor</key>
+	<string>#ffffff</string>
+	<key>sideMenuTextColor</key>
+	<string>#000000</string>
+	<key>firebaseEnabled</key>
+	<false/>
+	<key>firebaseListenerEnabled</key>
+	<false/>
+</dict>
+</plist>
